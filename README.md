@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tri+Tuong+Hoang!;" />
 </h1>
   
-<h3 align="center">A third-year student at HCMUIT ![image](https://github.com/1esuoK/1esuoK/assets/110546242/97840edc-6da1-45b8-97d8-d76d3f29879f)
-</h3>
+<h3 align="center">A third-year student at HCMUIT</h3>
 
 <br/>
 
