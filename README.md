@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,vscode,github,githubactions,git" />
-    <img src="https://skillicons.dev/icons?i=linux,python,javascript,c,cpp,html,css,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,javascript,c,cpp,java,androidstudio,html,css,bash" /><br>
 </div>
 
 <br/>
