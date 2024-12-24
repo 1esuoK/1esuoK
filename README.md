@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tri+Tuong+Hoang!;" />
 </h1>
   
-<h3 align="center">A third-year student at HCMUIT</h3>
+<h3 align="center">A 4th-year student at HCMUIT</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Researching and Evaluating CI/CD Models**
+ 🔭 I’m currently working on **Pipeline Generator and Plugins**
  
  🌱 I’m currently learning **DevOps**
 
@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,ubuntu,github,githubactions,git" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,ubuntu,github,githubactions,git,terraform" />
     <img src="https://skillicons.dev/icons?i=vscode,notion,python,javascript,c,cpp,java,androidstudio,html,css" /><br>
 </div>
 
