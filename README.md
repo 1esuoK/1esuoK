@@ -8,8 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Pipeline Generator and Plugins**
- 
  🌱 I’m currently learning **DevOps**
 
  </div>
